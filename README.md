@@ -6,7 +6,7 @@ When using the programme for the first time, user will be prompted to create a p
 
 ### Main Menu ###
 
-The main menu presents eight options to view all and by filter and to create, update and delete vehicles from the system.
+The main menu presents eight options to view all, filer, create, update and delete vehicles from the system.
 
 ### Notes ### 
 The programme is case-sensitive.
