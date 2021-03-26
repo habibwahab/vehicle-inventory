@@ -1,6 +1,6 @@
 # vehicle-inventory
 
-## CMake ###
+### CMake ####
 
 CMake build files and CMakeLists.txt are included for those that wish to use CMake.
 
