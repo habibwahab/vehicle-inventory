@@ -6,7 +6,7 @@ CMake build files and CMakeLists.txt are included for users of CMake.
 
 ### Login ###
 
-When using the programme for the first time, user will be prompted to create a password which is stored in a separate csv file.
+When using the programme for the first time, user will be prompted to create a password which is stored in a CSV.
 
 ### Main Menu ###
 
