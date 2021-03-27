@@ -2,7 +2,7 @@
 
 ### CMake ####
 
-CMake build files and CMakeLists.txt are included for those that wish to use CMake.
+CMake build files and CMakeLists.txt are included for users of CMake.
 
 ### Login ###
 
